@@ -1,0 +1,27 @@
+{
+  "repoName": "kitchen-countertop-buying-resource-map",
+  "description": "Maps air fryers, toaster oven air fryers, blenders, counter space, cleanup, and family-size buyer fit.",
+  "homepage": "https://www.betterbuylab.com/kitchen",
+  "topics": [
+    "air-fryer",
+    "blender",
+    "toaster-oven",
+    "kitchen-appliance",
+    "buying-guides",
+    "product-research",
+    "betterbuylab",
+    "kitchen"
+  ],
+  "visibility": "public",
+  "pinnedRecommendation": false,
+  "primaryWebsitePages": [
+    "/kitchen",
+    "/kitchen/best-air-fryers",
+    "/kitchen/best-toaster-oven-air-fryer",
+    "/kitchen/best-blenders-smoothies"
+  ],
+  "siblingRepos": [
+    "better-buy-lab-resources"
+  ],
+  "complianceNotes": "Scoped README links only; no live price language."
+}

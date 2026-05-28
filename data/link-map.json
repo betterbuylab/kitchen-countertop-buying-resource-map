@@ -1,0 +1,30 @@
+{
+  "website": [
+    {
+      "url": "https://www.betterbuylab.com/kitchen",
+      "anchor": "Better Buy Lab category hubs",
+      "path": "/kitchen"
+    },
+    {
+      "url": "https://www.betterbuylab.com/kitchen/best-air-fryers",
+      "anchor": "Better Buy Lab kitchen guide",
+      "path": "/kitchen/best-air-fryers"
+    },
+    {
+      "url": "https://www.betterbuylab.com/kitchen/best-toaster-oven-air-fryer",
+      "anchor": "Better Buy Lab kitchen guide",
+      "path": "/kitchen/best-toaster-oven-air-fryer"
+    },
+    {
+      "url": "https://www.betterbuylab.com/kitchen/best-blenders-smoothies",
+      "anchor": "Better Buy Lab kitchen guide",
+      "path": "/kitchen/best-blenders-smoothies"
+    }
+  ],
+  "github": [
+    {
+      "url": "https://github.com/betterbuylab/better-buy-lab-resources",
+      "anchor": "central hub"
+    }
+  ]
+}
