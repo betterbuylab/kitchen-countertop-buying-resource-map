@@ -1,27 +1,27 @@
 {
   "repoName": "kitchen-countertop-buying-resource-map",
-  "description": "Maps air fryers, toaster oven air fryers, blenders, counter space, cleanup, and family-size buyer fit.",
+  "shortDescription": "Buyer-fit resource map for air fryers, toaster ovens, blenders, counter space, cleanup, family size, and kitchen appliance choices.",
+  "description": "Buyer-fit resource map for air fryers, toaster ovens, blenders, counter space, cleanup, family size, and kitchen appliance choices.",
   "homepage": "https://www.betterbuylab.com/kitchen",
   "topics": [
+    "betterbuylab",
+    "buying-guides",
+    "product-research",
+    "kitchen-appliances",
     "air-fryer",
     "blender",
     "toaster-oven",
-    "kitchen-appliance",
-    "buying-guides",
-    "product-research",
-    "betterbuylab",
-    "kitchen"
+    "counter-space",
+    "buyer-fit",
+    "home-appliances"
   ],
   "visibility": "public",
   "pinnedRecommendation": false,
+  "profilePurpose": "Countertop appliance buyer-fit maps for batch cooking and cleanup routines.",
   "primaryWebsitePages": [
     "/kitchen",
     "/kitchen/best-air-fryers",
-    "/kitchen/best-toaster-oven-air-fryer",
     "/kitchen/best-blenders-smoothies"
   ],
-  "siblingRepos": [
-    "better-buy-lab-resources"
-  ],
-  "complianceNotes": "Scoped README links only; no live price language."
+  "complianceNotes": "Capacity and cleanup trade-offs; no deal language."
 }
